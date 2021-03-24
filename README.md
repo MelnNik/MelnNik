@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MelnNik/MelnNik/master/name.svg" alt="Nikolai Melnikov" />
+</h1>
 
-<!--
-**MelnNik/MelnNik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hey! 
+I'm Nikolai, a 23 years old developer from Oshawa, ON. 🇨🇦
 
-Here are some ideas to get you started:
+- 👥 Currently a postgraduate student at [DC](https://durhamcollege.ca/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Skills
+- 👨‍💻 Python, Java, JavaScript
+- ⚙️ Django, Spring, React
+- 👁️ Tableau, Power BI, CSS
+- 💽 MySQL, SQL, Mongo
+
+## ✉️ Contact
+- [melnnik@yahoo.com]
+- [@nikolaimelnikov](https://www.linkedin.com/in/nikolaimelnikov/) @ LinkedIn
