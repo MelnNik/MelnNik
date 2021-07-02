@@ -5,15 +5,13 @@
 ## 👋 Hey! 
 I'm Nikolai, a 23 years old developer from Oshawa, ON. 🇨🇦
 
-- 👥 Currently a postgraduate student at [DC](https://durhamcollege.ca/)
+- 👥 Postgraduate student at [DC](https://durhamcollege.ca/)
 
 ## 📈 Skills
 - 👨‍💻 Python, JavaScript, TypeScript, Java
-- ⚙️ Django, React, NodeJS, Spring
-- 👁️ Tableau, Power BI, CSS
-- 💽 MySQL, MongoDB
+- ⚙️ Django, ReactJS, NodeJS, Spring
 - 🤖 TensorFlow, Keras
 
 ## ✉️ Contact
 - melnnik@yahoo.com
-- [@nikolaimelnikov](https://www.linkedin.com/in/nikolaimelnikov/) @ LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/nikolaimelnikov/)
